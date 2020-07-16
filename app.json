@@ -1,0 +1,22 @@
+{
+    "pages": [
+        "pages/rili/index",
+        "pages/echarts2/index",
+        "pages/echarts/index",
+        "pages/index/index",
+        "pages/charts/charts",
+        "pages/sendmsg/sendmsg",
+        "pages/password/password",
+        "pages/logs/logs",
+        "pages/tab-bar/tab-bar",
+        "pages/person/person",
+        "pages/charts1/charts1"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "WeChat",
+        "navigationBarTextStyle": "black"
+    },
+    "sitemapLocation": "sitemap.json"
+}

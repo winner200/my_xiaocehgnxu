@@ -1,0 +1,18 @@
+.Form{
+  margin-top: 80px;
+}
+.forms input{
+  padding: 10px ;
+}
+.phonenumber{
+  border-bottom: 1px solid #ccc;}
+.message{
+  display: inline-block
+}
+.btn{
+  display: inline-block;
+  font-size: 14px;
+}
+.forms button{
+  margin-top: 15px;
+}

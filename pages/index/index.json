@@ -1,0 +1,9 @@
+{
+"disableScroll": true,
+  "usingComponents": {
+    "van-button": "../../miniprogram_npm/@vant/weapp/dist/button",
+    "van-dialog": "../../miniprogram_npm/@vant/weapp/dist/dialog/index",
+    "scroll": "../../components/scroll/index"
+  },
+  "enablePullDownRefresh": true
+}

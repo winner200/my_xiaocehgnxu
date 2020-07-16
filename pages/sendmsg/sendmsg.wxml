@@ -1,0 +1,10 @@
+<view class='Form'>
+    <form bindsubmit="formSubmit" bindreset="formReset" class='forms'>
+        <view class="fidpas">
+        <input type="number" class="phonenumber" placeholder="请输入手机号" name="phonenumber" />
+        <input type="number" class="message" placeholder="请输入短信验证码" name="msg" />
+        <button class="{{sendmsg}}" bindtap="sendmessg" class='btn'>{{getmsg}}</button>
+        </view>
+        <button class="lgbut" formType="submit" type='warn'>下一步</button>
+    </form>
+</view>
